@@ -33,3 +33,24 @@ Working on the MVT model with django, trying to use different databases - MongoD
 Has been all about authentication and denying permissions to non-auths
 see django-rest-auth.py
 
+Today is some day in March, 15th. I have been working on a project that was inspired by this error marking code project, that ended up being larger than I thought. THis is just what happens when you work on a project withut a proper map.
+
+So here, First, the link to the apps are: https://github.com/kiokogit/myShelfClient.git and https://github.com/kiokogit/myShelfBackEnd.git
+
+Now, there is something I found out: 
+THere is a file type that can change language from one language to another, using the back ticks. THis .md file
+
+for Javascript, set as below:
+```js
+const codeTest=(why) =>{
+    return
+}
+```
+for python, 
+```py
+def impl_code(smart):
+    if smart is not None:
+        pass
+    return None
+```
+etc. So now I will be creating .md files for the errors
